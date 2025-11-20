@@ -34,71 +34,40 @@ PROCEDURE
 · Verify the generated results
 
 PROGRAM
-
+```asm
 clear;
-
 clc;
-
 clear;
-
 function z = f(x)
-
     z = 3*(1 - x)^2
-
 endfunction
-
 a = 0;
-
 b = 1;
-
 EX = intg(a, b, f)
-
 function z = c(y)
-
     z = 3*(1 - y)^2
-
 endfunction
-
 EY = intg(a, b, c)
-
 function z = g(x)
-  
     z = (x^2)*3*(1 - x)^2
-
 endfunction
-
 EX2 = intg(a, b, g)
-
 function z = h(y)
-   
     z = (y^2)*3*(1 - y)^2
-
 endfunction
-
 EY2 = intg(a, b, h)
-
 vX2 = EX2 - (EX)^2
-
 vY2 = EY2 - (EY)^2
-
 disp(EX, "Mean of X =")
-
 disp(EY, "Mean of Y =")
-
 disp(vX2, "Variance of X =")
-
 disp(vY2, "Variance of Y =")
-
 x = input("Type in the reference sequence = ")
-
 y = input("Type in the second sequence = ")
-
 n1 = max(size(y)) - 1
-
 r = corr(x, y, n1)
-
 plot2d3('gnn', r)
-
+```
 OUTPUT:
 
 <img width="740" height="685" alt="Screenshot 2025-10-23 234314" src="https://github.com/user-attachments/assets/1d12151d-20c9-4874-a059-7e693a67bf28" />
