@@ -82,9 +82,9 @@ Type in the second sequence = [2 4 6 8 10 11 12 13]
 
 calculation:
 
-![WhatsApp Image 2025-11-28 at 12 23 33_c967a324](https://github.com/user-attachments/assets/39abf0fa-ba0d-40f3-a3b3-7f58a620f7b7)
+![WhatsApp Image 2025-11-28 at 14 02 17_4942c68e](https://github.com/user-attachments/assets/34b14ae4-cb29-419f-9f4a-0c40ab706396)
 
-![WhatsApp Image 2025-11-28 at 12 23 52_eb6382ef](https://github.com/user-attachments/assets/f88a396d-f2e2-4acf-8079-f4aa57c8ba3d)
+![WhatsApp Image 2025-11-28 at 14 02 30_955e1453](https://github.com/user-attachments/assets/be04bf74-e9d1-4732-a0e6-57e022d4c604)
 
 result
 
