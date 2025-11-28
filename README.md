@@ -80,14 +80,13 @@ Type in the reference sequence = [1 2 3 4 5 6 7 8]
 Type in the second sequence = [2 4 6 8 10 11 12 13]
 
 
-
 calculation:
-![WhatsApp Image 2025-11-22 at 12 43 06_4a97f25b](https://github.com/user-attachments/assets/7c74c535-5a7d-4196-97cc-ba082d5563be)
 
-![WhatsApp Image 2025-11-22 at 12 43 06_3d61ab83](https://github.com/user-attachments/assets/4e3eae82-e73b-48ca-b31c-ba646324fd30)
+![WhatsApp Image 2025-11-28 at 12 23 33_c967a324](https://github.com/user-attachments/assets/39abf0fa-ba0d-40f3-a3b3-7f58a620f7b7)
 
+![WhatsApp Image 2025-11-28 at 12 23 52_eb6382ef](https://github.com/user-attachments/assets/f88a396d-f2e2-4acf-8079-f4aa57c8ba3d)
 
-RESULT:
+result
 
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
 
